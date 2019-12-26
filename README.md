@@ -1,7 +1,7 @@
 # Video_Resume
 
 Video Resume : Work flow
-1) User uplaod an MP4 file ,(talking about his/her introduction, education, career path etc.) 
+1) User upload an MP4 file ,(talking about his/her introduction, education, career path etc.) 
 2) Based on the facial experssion my algorithem predicts his/her Age and Gender
 3) Using the NLP library called Spacy helps to extract data such as your(ORGANIZATION names,SKILLS ,SALARY. LOCATION.)
  
