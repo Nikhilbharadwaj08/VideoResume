@@ -11,6 +11,8 @@ Video Resume : Work flow
  
  
  MP4 ---> AGE and Gender prediction
+ 
  MP4 ---> converted to WAV ---> WAV
+ 
  WAV ---> converted to text file ---> Text file ---> library used Spacy---> Result
  
