@@ -6,6 +6,10 @@ Video Resume : Work flow
 3) Using the NLP library called Spacy helps to extract data such as your(ORGANIZATION names,SKILLS ,SALARY. LOCATION.)
  
  ********************************************WORK FLOW *******************************************************************
+ 
+ 
+ 
+ 
  MP4 ---> AGE and Gender prediction
  MP4 ---> converted to WAV ---> WAV
  WAV ---> converted to text file ---> Text file ---> library used Spacy---> Result
