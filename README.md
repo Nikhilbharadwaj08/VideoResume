@@ -16,3 +16,8 @@ Video Resume : Work flow
  
  WAV ---> converted to text file ---> Text file ---> library used Spacy---> Result
  
+ 
+ ********************************************
+  
+  If interested in this project ping me --> NIKHILBHARADWAJ08@GMAIL.COM
+ 
