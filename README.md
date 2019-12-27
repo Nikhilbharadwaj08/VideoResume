@@ -19,5 +19,5 @@ Video Resume : Work flow
  
  ********************************************
   
-  If interested in this project ping me --> NIKHILBHARADWAJ08@GMAIL.COM
+  --> NIKHILBHARADWAJ08@GMAIL.COM
  
